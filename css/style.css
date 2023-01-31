@@ -1,0 +1,31 @@
+* { margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#F6F8F9 ;
+}
+
+/* header  */
+
+header{
+   padding: 10px 0px 5px 22px;
+   background-color: white;
+}
+
+.logo-header {
+    width: 60px;
+    height: 60px;
+    background-color: white;
+    vertical-align: middle;
+}
+
+.title {
+    color: #041931;
+    font-size: 50px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
