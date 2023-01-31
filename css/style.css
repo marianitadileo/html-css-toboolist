@@ -29,3 +29,26 @@ header{
     vertical-align: middle;
 }
 
+/* main  */
+.container1 {
+    background-color: white;
+    width: 80%;
+    margin: 170px auto;
+    
+}
+
+.button1 {
+    background-color: #47ADF1;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+.button2 {
+    background-color: white;
+    color: lightgrey;
+    padding: 8px;
+    border-radius: 10px;
+    border-color: lightgrey;
+}
